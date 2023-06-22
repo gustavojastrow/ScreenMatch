@@ -67,4 +67,12 @@ public class Filme {
                 + "]";
     }
 
+
+    public void atualizaDados(DadosAtualizadaFilme dados) {
+        this.nome = dados.nome();
+        this.duracao = dados.duracao();
+        this.lancamento = dados.lancamento();
+        this.genero = dados.genero();
+    }
+
 }

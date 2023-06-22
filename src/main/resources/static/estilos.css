@@ -102,7 +102,7 @@ body {
     font-family: Roboto, Arial, Helvetica, sans-serif;
     background-color: var(--azul-claro);
     font-size: 14px;
-    color: black;
+    color: white;
     box-sizing: border-box;
     text-align: center;
 }

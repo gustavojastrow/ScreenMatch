@@ -1,6 +1,6 @@
 ## ScreenMatch
 
-Aplicação WEB desenvolvida com SpringBoot + MySQL para registro de filmes utilizando os templates do Thymeleaf, um e CRUD dos filmes registrados com as funcionalidades:
+Aplicação WEB desenvolvida com SpringBoot + MySQL para registro de filmes utilizando os templates do Thymeleaf, e um CRUD dos filmes registrados com as funcionalidades:
 GET, POST, PUT e DELETE.
 
 ## 🛠️ Tecnologias utilizadas
